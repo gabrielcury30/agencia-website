@@ -23,6 +23,7 @@ Para visualizar o site localmente, você precisará de um navegador web.
 
 1. Clone o repositório: `git clone https://github.com/gabrielcury30/agencia-website.git`
 2. Abra o arquivo `index.html` em seu navegador.
+3. Ou acesse-o no [GitHub Pages](https://gabrielcury30.github.io/agencia-website/).
 
 ## Referência
 
